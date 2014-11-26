@@ -1,0 +1,71 @@
+#sepTable{
+	width:100%;
+	height:100%;
+	border-spacing:20px;
+
+}
+
+.batons td{
+	width:50%;
+}
+
+.gagnant{
+	background-color: #b31b28;
+}
+
+.align-right{
+	margin-right:0;
+	margin-left: auto;
+}
+
+
+.align-left{
+	margin-left:0;
+	margin-right:auto;
+}
+.diviseurBaton{
+	width:100%;
+	height:100%;
+	border-spacing: 0;
+}
+.biereLogo{
+	width:20% !important;
+}
+.batonBiere{
+	width:80% !important;
+}
+
+.baton{
+	background-color: #75121a;
+}
+#dub1{
+	width:80%;
+	height:70%;
+}
+#dub1Gagn{
+	width:30%;
+	height:100%;
+}
+
+#bocq1Gagn{
+	width:30%;
+	height:100%;
+}
+
+#bocq2{
+	width:60%;
+	height:70%;
+}
+#bocq2Gagn{
+	width:20%;
+	height:100%;
+}
+
+#dub3{
+	width:80%;
+	height:70%;
+}
+#dub3Gagn{
+	width:30%;
+	height:100%;
+}
